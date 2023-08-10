@@ -7,6 +7,10 @@
 // git log - show the commit history
 // git log --oneline - show the commit history in one line
 // git config --global --edit - edit the global git config file
+// git checkout -b <branchname> - create a new branch and switch to it
+// git checkout <branchname> - switch to an existing branch
+// git branch - show all branches
+
 console.log("init");
 
 console.log("hello");
