@@ -15,6 +15,7 @@
 // git remote -v -view information about remote repositories
 // git remote add <remote_name> <url> - add a remote repository
 // git branch -D <branchname> - delete a branch
+// git branch -m <branchname> - rename a branch
 
 console.log("init");
 
