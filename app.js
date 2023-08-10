@@ -6,7 +6,7 @@
 // git commit --amend -m "<message>" - change the commit message
 // git log - show the commit history
 // git log --oneline - show the commit history in one line
-
+// git config --global --edit - edit the global git config file
 console.log("init");
 
 console.log("hello");
