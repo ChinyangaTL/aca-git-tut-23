@@ -13,6 +13,7 @@
 // git merge - merge a branch and its changes into the current branch
 // git reset --soft HEAD~1 -undo last commit
 // git remote -v -view information about remote repositories
+// git remote add <remote_name> <url> - add a remote repository
 
 console.log("init");
 
