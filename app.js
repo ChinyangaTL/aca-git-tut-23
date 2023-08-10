@@ -11,6 +11,8 @@
 // git checkout <branchname> - switch to an existing branch
 // git branch - show all branches
 // git merge - merge a branch and its changes into the current branch
+// git reset --soft HEAD~1 -undo last commit
+// git remote -v -view information about remote repositories
 
 console.log("init");
 
