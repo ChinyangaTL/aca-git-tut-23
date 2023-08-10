@@ -10,6 +10,7 @@
 // git checkout -b <branchname> - create a new branch and switch to it
 // git checkout <branchname> - switch to an existing branch
 // git branch - show all branches
+// git merge - merge a branch and its changes into the current branch
 
 console.log("init");
 
